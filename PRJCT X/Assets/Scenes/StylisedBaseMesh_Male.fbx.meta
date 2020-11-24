@@ -1,11 +1,178 @@
 fileFormatVersion: 2
 guid: 465bf5e22f742ee439391fd4c44960f5
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: M_Chest
+    100002: M_Elbow_L
+    100004: M_Elbow_R
+    100006: M_Feet_L
+    100008: M_Feet_R
+    100010: M_Finger_01_L
+    100012: M_Finger_01_R
+    100014: M_Finger_02_L
+    100016: M_Finger_02_R
+    100018: M_Finger_03_L
+    100020: M_Finger_03_R
+    100022: M_Finger_04_L
+    100024: M_Finger_04_R
+    100026: M_Finger_05_L
+    100028: M_Finger_05_R
+    100030: M_Hand_L
+    100032: M_Hand_R
+    100034: M_Head
+    100036: M_Knee_L
+    100038: M_Knee_R
+    100040: M_Lower_Arm_L
+    100042: M_Lower_Arm_R
+    100044: M_Lower_Leg_L
+    100046: M_Lower_Leg_R
+    100048: M_Neck
+    100050: M_Shoulders_L
+    100052: M_Shoulders_R
+    100054: M_Stomach
+    100056: M_Upper_Arm_L
+    100058: M_Upper_Arm_R
+    100060: M_Upper_Leg_L
+    100062: M_Upper_Leg_R
+    100064: //RootNode
+    400000: M_Chest
+    400002: M_Elbow_L
+    400004: M_Elbow_R
+    400006: M_Feet_L
+    400008: M_Feet_R
+    400010: M_Finger_01_L
+    400012: M_Finger_01_R
+    400014: M_Finger_02_L
+    400016: M_Finger_02_R
+    400018: M_Finger_03_L
+    400020: M_Finger_03_R
+    400022: M_Finger_04_L
+    400024: M_Finger_04_R
+    400026: M_Finger_05_L
+    400028: M_Finger_05_R
+    400030: M_Hand_L
+    400032: M_Hand_R
+    400034: M_Head
+    400036: M_Knee_L
+    400038: M_Knee_R
+    400040: M_Lower_Arm_L
+    400042: M_Lower_Arm_R
+    400044: M_Lower_Leg_L
+    400046: M_Lower_Leg_R
+    400048: M_Neck
+    400050: M_Shoulders_L
+    400052: M_Shoulders_R
+    400054: M_Stomach
+    400056: M_Upper_Arm_L
+    400058: M_Upper_Arm_R
+    400060: M_Upper_Leg_L
+    400062: M_Upper_Leg_R
+    400064: //RootNode
+    2100000: BaseMesh
+    2300000: M_Chest
+    2300002: M_Elbow_L
+    2300004: M_Elbow_R
+    2300006: M_Feet_L
+    2300008: M_Feet_R
+    2300010: M_Finger_01_L
+    2300012: M_Finger_01_R
+    2300014: M_Finger_02_L
+    2300016: M_Finger_02_R
+    2300018: M_Finger_03_L
+    2300020: M_Finger_03_R
+    2300022: M_Finger_04_L
+    2300024: M_Finger_04_R
+    2300026: M_Finger_05_L
+    2300028: M_Finger_05_R
+    2300030: M_Hand_L
+    2300032: M_Hand_R
+    2300034: M_Head
+    2300036: M_Knee_L
+    2300038: M_Knee_R
+    2300040: M_Lower_Arm_L
+    2300042: M_Lower_Arm_R
+    2300044: M_Lower_Leg_L
+    2300046: M_Lower_Leg_R
+    2300048: M_Neck
+    2300050: M_Shoulders_L
+    2300052: M_Shoulders_R
+    2300054: M_Stomach
+    2300056: M_Upper_Arm_L
+    2300058: M_Upper_Arm_R
+    2300060: M_Upper_Leg_L
+    2300062: M_Upper_Leg_R
+    2300064: //RootNode
+    3300000: M_Chest
+    3300002: M_Elbow_L
+    3300004: M_Elbow_R
+    3300006: M_Feet_L
+    3300008: M_Feet_R
+    3300010: M_Finger_01_L
+    3300012: M_Finger_01_R
+    3300014: M_Finger_02_L
+    3300016: M_Finger_02_R
+    3300018: M_Finger_03_L
+    3300020: M_Finger_03_R
+    3300022: M_Finger_04_L
+    3300024: M_Finger_04_R
+    3300026: M_Finger_05_L
+    3300028: M_Finger_05_R
+    3300030: M_Hand_L
+    3300032: M_Hand_R
+    3300034: M_Head
+    3300036: M_Knee_L
+    3300038: M_Knee_R
+    3300040: M_Lower_Arm_L
+    3300042: M_Lower_Arm_R
+    3300044: M_Lower_Leg_L
+    3300046: M_Lower_Leg_R
+    3300048: M_Neck
+    3300050: M_Shoulders_L
+    3300052: M_Shoulders_R
+    3300054: M_Stomach
+    3300056: M_Upper_Arm_L
+    3300058: M_Upper_Arm_R
+    3300060: M_Upper_Leg_L
+    3300062: M_Upper_Leg_R
+    3300064: //RootNode
+    4300000: M_Hips
+    4300002: M_Chest
+    4300004: M_Stomach
+    4300006: M_Upper_Leg_L
+    4300008: M_Lower_Leg_L
+    4300010: M_Feet_L
+    4300012: M_Knee_L
+    4300014: M_Shoulders_L
+    4300016: M_Upper_Arm_L
+    4300018: M_Lower_Arm_L
+    4300020: M_Neck
+    4300022: M_Head
+    4300024: M_Hand_L
+    4300026: M_Finger_02_L
+    4300028: M_Finger_03_L
+    4300030: M_Finger_04_L
+    4300032: M_Finger_05_L
+    4300034: M_Finger_01_L
+    4300036: M_Hand_R
+    4300038: M_Upper_Leg_R
+    4300040: M_Lower_Leg_R
+    4300042: M_Feet_R
+    4300044: M_Knee_R
+    4300046: M_Shoulders_R
+    4300048: M_Upper_Arm_R
+    4300050: M_Lower_Arm_R
+    4300052: M_Elbow_L
+    4300054: M_Finger_01_R
+    4300056: M_Finger_02_R
+    4300058: M_Finger_03_R
+    4300060: M_Finger_04_R
+    4300062: M_Finger_05_R
+    4300064: M_Elbow_R
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,28 +205,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -68,10 +232,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -81,16 +245,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
