@@ -11,7 +11,7 @@ public class testscript : MonoBehaviour
         // to see if it does the thing 
     
     }
-
+//oooo what is all of this
     // Update is called once per frame
     void Update()
     {
