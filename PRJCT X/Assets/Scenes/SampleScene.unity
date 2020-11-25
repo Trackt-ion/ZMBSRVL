@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 99923889}
   - component: {fileID: 99923888}
   m_Layer: 0
-  m_Name: player Camera
+  m_Name: feet cam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -198,7 +198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 99923887}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.006, y: 0.06, z: -5.45}
+  m_LocalPosition: {x: -1.08, y: 0.06, z: -5.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -589,34 +589,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!136 &784418170
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 784418164}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.84716636
-  m_Height: 5.9615984
-  m_Direction: 2
-  m_Center: {x: 0.040270805, y: -9.56639e-17, z: 1.9932678}
---- !u!136 &784418171
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 784418164}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.35999694
-  m_Height: 6.689304
-  m_Direction: 2
-  m_Center: {x: 1, y: 0.5, z: -3}
 --- !u!1001 &800094690
 PrefabInstance:
   m_ObjectHideFlags: 0
