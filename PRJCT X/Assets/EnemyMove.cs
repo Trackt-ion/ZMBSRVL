@@ -10,7 +10,7 @@ public class EnemyMove : MonoBehaviour
     Transform _destination;
     NavMeshAgent _NavMeshAgent;
     // Start is called before the first frame update
-    void Start()
+    void Update()
     {
         _NavMeshAgent = this.GetComponent<NavMeshAgent>();
 
@@ -25,7 +25,7 @@ public class EnemyMove : MonoBehaviour
 
     }
 
-        private void SetDestination()
+        void SetDestination()
         {
             if(_destination != null)
             {
@@ -38,9 +38,5 @@ public class EnemyMove : MonoBehaviour
 
 
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
